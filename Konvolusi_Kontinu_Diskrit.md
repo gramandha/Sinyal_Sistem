@@ -133,22 +133,22 @@ $$
 
 # 4. Contoh Konvolusi Kontinu
 
-Diberikan:
+Diberikan impulse response:
 
 $$
-x(t)=
+h(t) = 
 \begin{cases}
-1, & 0<t<3 \\
+4, & 1 \le t \le 3 \\
 0, & \text{lainnya}
 \end{cases}
 $$
 
-dan:
+dan input:
 
 $$
-h(t)=
+x(t) = 
 \begin{cases}
-1, & 0<t<2\\
+2, & 0 \le t \le 2 \\
 0, & \text{lainnya}
 \end{cases}
 $$
