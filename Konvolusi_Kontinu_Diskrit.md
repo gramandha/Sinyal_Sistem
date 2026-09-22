@@ -722,6 +722,7 @@ $$
 
 ### Inti Konsep
 
+
 $$
 \boxed{
 \text{Konvolusi}
