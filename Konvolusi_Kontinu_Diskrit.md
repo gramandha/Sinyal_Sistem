@@ -139,7 +139,7 @@ $$
 x(t)=
 \begin{cases}
 1, & 0<t<3\\
-0, & \mathrm{lainnya}
+0, & \mathrm{lainnya}.
 \end{cases}
 $$
 
@@ -149,7 +149,7 @@ $$
 h(t)=
 \begin{cases}
 1, & 0<t<2\\
-0, & \mathrm{lainnya}
+0, & \mathrm{lainnya}.
 \end{cases}
 $$
 
