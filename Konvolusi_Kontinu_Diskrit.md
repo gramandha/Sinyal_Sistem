@@ -722,17 +722,4 @@ $$
 
 ### Inti Konsep
 
-
-$$
-\boxed{
-\text{Konvolusi}
-=
-\text{Flip}
-+
-\text{Shift}
-+
-\text{Perkalian}
-+
-\text{Integral atau Penjumlahan}
-}
-$$
+$$\boxed{\text{Konvolusi} = \text{Flip} + \text{Shift} + \text{Perkalian} + \text{Integral atau Penjumlahan}}$$
